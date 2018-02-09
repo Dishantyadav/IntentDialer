@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentDialer</string>
+    <string name="Dialer">Click Here to Open the Dialer</string>
+</resources>
